@@ -30,10 +30,6 @@
   "bugs": {
     "url": "https://github.com/kez/react-native-google-signin/issues"
   },
-  "peerDependencies": {
-    "react": ">=16.0.0-alpha.12",
-    "react-native": ">=0.45.1"
-  },
   "rnpm": {
     "ios": {
       "project": "ios/RNGoogleSignin.xcodeproj",
