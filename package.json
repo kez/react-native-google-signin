@@ -22,17 +22,17 @@
     "ios",
     "android"
   ],
-  "homepage": "https://github.com/devfd/react-native-google-signin",
+  "homepage": "https://github.com/kez/react-native-google-signin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/devfd/react-native-google-signin"
+    "url": "https://github.com/kez/react-native-google-signin"
   },
   "bugs": {
-    "url": "https://github.com/devfd/react-native-google-signin/issues"
+    "url": "https://github.com/kez/react-native-google-signin/issues"
   },
   "peerDependencies": {
-    "react": ">=15.4.0",
-    "react-native": ">=0.40"
+    "react": ">=16.0.0-alpha.12",
+    "react-native": ">=0.45.1"
   },
   "rnpm": {
     "ios": {
